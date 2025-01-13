@@ -1,0 +1,12 @@
+nav {
+  background-color: gray;
+  display: inline-flexbox;
+  position: fixed;
+  justify-content: space-between;
+  left: 0;
+  right: 0;
+}
+.id {
+  text-align: end;
+  font-size: x-large;
+}
